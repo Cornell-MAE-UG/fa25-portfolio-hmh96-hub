@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Huxley Holcombe - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [hmh96@cornell.edu](mailto:hmh96@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
@@ -20,11 +20,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.0/4.0 | Graduation: March, 2027
 
-- **[High School Name]**  
+- **Worcester Academy**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [March, 2023]
 
 ---
 
