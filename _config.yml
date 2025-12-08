@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Huxley Holcombe
 description              : Huxley Holcombe - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "fa25-portfolio-hmh96-hub" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
