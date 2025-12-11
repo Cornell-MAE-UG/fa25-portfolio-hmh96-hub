@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Water Pump Fluid Mechanics Dissection
+title: Fluid Mechanics - Water Pump Dissection
 description: Class project with Graphs
 image: /assets/images/pump.png
 ---
