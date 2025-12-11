@@ -6,7 +6,7 @@ title: Huxley Holcombe
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/headshot.png" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/headshot.png" | relative_url }}){: class="profile-image", style="width:60%;"}
 
  
 My name is {{ site.name }}, and I am an undergraduate Engineering student at Cornell University. I am pursuing a degree in Mechanical Engineering as well as being a starting pitcher for Cornell Baseball.
