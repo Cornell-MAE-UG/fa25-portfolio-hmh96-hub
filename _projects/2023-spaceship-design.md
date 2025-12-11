@@ -3,7 +3,7 @@ layout: project
 title: Spaceship Design
 description: Just a spaceship that I designed
 technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/b2drone.png
 assets: /assets/MAE 3260 Group 23 Final Report.pdf
 ---
 
