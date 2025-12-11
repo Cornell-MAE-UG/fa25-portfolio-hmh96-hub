@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Spaceship Design
+title: System Dynamics Model
 description: Just a spaceship that I designed
 technologies: [Spreadsheets, Osiliscope, High-speed Camera, ]
 image: /assets/images/b2drone.png
