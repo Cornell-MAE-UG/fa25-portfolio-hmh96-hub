@@ -13,7 +13,9 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Currently attending **Cornell University** where I am studying **Mechanical and Aerospace Engineering** and playing **varsity Division 1 baseball.**
+
+Mechanical and Aerospace Engineering student at Cornell University with hands-on engineering experience, strong leadership skills, and a background in the arts and competitive athletics. Proven ability to solve complex problems through design, analysis, and collaboration.
 
 ---
 
@@ -24,14 +26,14 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 - **Worcester Academy**  
   *High School Diploma*  
-  Graduation: [March, 2023]
+  GPA: 4.3/4.0 | Graduation: March, 2023
 
 ---
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Programming:** Python, MATLAB, Java 
+- **Tools:** 3D Printing, Shop Experience, Drawing
 
 ---
 
@@ -49,26 +51,40 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Allied Sinterings] - Engineering Intern**  
+  [May, 2025] - [Aug, 2025]  
+  Allied Sinterings inc. - Danbury, CT - Reference: **Mark Foster (CEO) +1 (203) 770-1148**
+  - Solved engineering problems on a manufacturing floor in order to improve the operation. 
+  - Redesigned and implemented new vacuum impregnation process.
+  - Designed and illustrated setup sheets for tooling technicians.
+  - Experience: welding, sintering, DFM, design, fabrication, and working on a factory floor.
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
+**Vermont Academy**
+- [Scholar of the Month], [Vermont Academy]
+- [Headmaster's List], [Vermont Academy], [Every Semester]
+- [Robotics: Most valuable team member], [Vermont Academy], [2019]
+- [Cross Country: Most improved], [Vermont Academy], [2019]
+- [Varsity Letters: 2 Baseball, 1 Cross Country, 1 Nordic Skiing], [Vermont Academy]
+**Worcester Academy**
+- [Headmaster's List], [Worcester Academy], [Every Semester]
+- [Varsity Letters: 3 Baseball, 1 Cross Country, 1 Swimming], [Worcester Academy]
+**Baseball**
+- Babe Ruth State champion (2 times) 
+- Multiple tournament titles [Junior SwampBats and New England Ruffnecks]
+- Freshman of the week [Cornell]
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Amnesty International [Club leader]  
+- Science Olympiad [Club Leader] 
+- Class President [Vermont Academy] 
 
 ---
 
 #### References
-Available upon request.
+Allied Sinterings inc. - Danbury, CT - Reference: **Mark Foster (CEO) +1 (203) 770-1148**
 
 ---
