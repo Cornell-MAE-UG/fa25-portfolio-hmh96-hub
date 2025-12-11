@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench FEM Analysis
 description: CAD and FEM Project
 technologies: [Autodesk Fusion, Ansys FEM software]
-image: /assets/images/MaterialsFinal/one.jpg, /assets/images/MaterialsFinal/two.jpg, /assets/images/MaterialsFinal/three.jpg, /assets/images/MaterialsFinal/four.jpg, /assets/images/MaterialsFinal/one.five, /assets/images/MaterialsFinal/six.jpg, /assets/images/MaterialsFinal/seven.jpg, /assets/images/MaterialsFinal/eight.jpg, /assets/images/MaterialsFinal/nine.jpg
+image: /assets/images/MaterialsFinal/one.png, /assets/images/MaterialsFinal/two.png, /assets/images/MaterialsFinal/three.png, /assets/images/MaterialsFinal/four.png, /assets/images/MaterialsFinal/one.five, /assets/images/MaterialsFinal/six.png, /assets/images/MaterialsFinal/seven.png, /assets/images/MaterialsFinal/eight.png, /assets/images/MaterialsFinal/nine.png
 ---
 Class: Mechanics of Materials (MAE 3270)
 
@@ -14,10 +14,10 @@ Results
 
 1. Image(s) of CAD model. Must show all key dimensions.
 
-![Image 1]({{ "/assets/images/MaterialsFinal/one.jpg" | relative_url }}){: .inline-image-l}
-![Image 2]({{ "/assets/images/MaterialsFinal/two.jpg" | relative_url }}){: .inline-image-l}
-![Image 3]({{ "/assets/images/MaterialsFinal/three.jpg" | relative_url }}){: .inline-image-l}
-![Image 4]({{ "/assets/images/MaterialsFinal/four.jpg" | relative_url }}){: .inline-image-l}
+![Image 1]({{ "/assets/images/MaterialsFinal/one.png" | relative_url }}){: .inline-image-l}
+![Image 2]({{ "/assets/images/MaterialsFinal/two.png" | relative_url }}){: .inline-image-l}
+![Image 3]({{ "/assets/images/MaterialsFinal/three.png" | relative_url }}){: .inline-image-l}
+![Image 4]({{ "/assets/images/MaterialsFinal/four.png" | relative_url }}){: .inline-image-l}
 
 2.
 Describe material used and its relevant mechanical properties.
@@ -39,24 +39,24 @@ Fatigue Strength (106 cycles)
 
 3.
 Diagram communicating how loads and boundary conditions were applied to your FEM model.
-![Image 5]({{ "/assets/images/MaterialsFinal/five.jpg" | relative_url }}){: .inline-image-l}
+![Image 5]({{ "/assets/images/MaterialsFinal/five.png" | relative_url }}){: .inline-image-l}
 Just the highlighted yellow part of the model has the zero displacement restraint applied too it.
 
 4.
 Normal strain contours (in the strain gauge direction) from FEM
-![Image 6]({{ "/assets/images/MaterialsFinal/six.jpg" | relative_url }}){: .inline-image-l}
+![Image 6]({{ "/assets/images/MaterialsFinal/six.png" | relative_url }}){: .inline-image-l}
 Strain extremes reduce from the max and mins shown here at points further along the shaft not shown.
 
 5.
 Contour plot of maximum principal stress from FEM
-![Image 7]({{ "/assets/images/MaterialsFinal/seven.jpg" | relative_url }}){: .inline-image-l}
+![Image 7]({{ "/assets/images/MaterialsFinal/seven.png" | relative_url }}){: .inline-image-l}
 Stress extremes reduce from the max and mins shown here at points further along the shaft not shown.
 
 6.
 Summarize results from FEM calculation showing maximum normal stress (anywhere), load point deflection, strains at the strain gauge locations.
-![Image 8]({{ "/assets/images/MaterialsFinal/eight.jpg" | relative_url }}){: .inline-image-l}
+![Image 8]({{ "/assets/images/MaterialsFinal/eight.png" | relative_url }}){: .inline-image-l}
 Stress extremes reduce from the max and mins shown here at points further along the shaft not shown.
-![Image 9]({{ "/assets/images/MaterialsFinal/nine.jpg" | relative_url }}){: .inline-image-l}
+![Image 9]({{ "/assets/images/MaterialsFinal/nine.png" | relative_url }}){: .inline-image-l}
 The strain at the strain gauge is 1313.3 microstrain which matches the hand calculated value of 1396 microstrain.
 
 7.
@@ -79,9 +79,3 @@ Backing / package size: ≈ 0.25 in × 0.15 in
 
 The wrench handle has 0.75 in of flat width, so there is ample bonding area for the gauges. The gauges are aligned longitudinally to measure bending strain, with one on the top surface (tension) and one on the bottom surface (compression), arranged in a half-bridge to increase sensitivity and provide some temperature compensation.
 
-
-
-
-I was inspired by this old radio when I made this rendering:
-
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
