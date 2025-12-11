@@ -3,8 +3,8 @@ layout: project
 title: Torque Wrench FEM Analysis
 description: CAD and FEM Project
 technologies: [Autodesk Fusion, ANSYS FEM software]
-image: /assets/images/function-graph.png
-pics: /assets/images/MaterialsFinal/one.png, /assets/images/MaterialsFinal/two.png, /assets/images/MaterialsFinal/three.png, /assets/images/MaterialsFinal/four.png, /assets/images/MaterialsFinal/five.png, /assets/images/MaterialsFinal/six.png, /assets/images/MaterialsFinal/eight.png, /assets/images/MaterialsFinal/nine.png, /assets/images/MaterialsFinal/seven.png
+image: /assets/images/MaterialsFinal/seven.png
+pics: /assets/images/MaterialsFinal/one.png, /assets/images/MaterialsFinal/two.png, /assets/images/MaterialsFinal/three.png, /assets/images/MaterialsFinal/four.png, /assets/images/MaterialsFinal/five.png, /assets/images/MaterialsFinal/six.png, /assets/images/MaterialsFinal/eight.png, /assets/images/MaterialsFinal/nine.png
 ---
 Class: Mechanics of Materials (MAE 3270)
 
