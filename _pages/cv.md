@@ -63,15 +63,15 @@ Mechanical and Aerospace Engineering student at Cornell University with hands-on
 
 #### Achievements & Certifications
 **Vermont Academy**
-- [Scholar of the Month], [Vermont Academy]
-- [Headmaster's List], [Vermont Academy], [Every Semester]
-- [Robotics: Most valuable team member], [Vermont Academy], [2019]
-- [Cross Country: Most improved], [Vermont Academy], [2019]
-- [Varsity Letters: 2 Baseball, 1 Cross Country, 1 Nordic Skiing], [Vermont Academy]
+- Scholar of the Month, [Vermont Academy]
+- Headmaster's List, [Vermont Academy], [Every Semester]
+- Robotics: Most valuable team member, [Vermont Academy], [2019]
+- Cross Country: Most improved, [Vermont Academy], [2019]
+- Varsity Letters: 2 Baseball, 1 Cross Country, 1 Nordic Skiing, [Vermont Academy]
 
 **Worcester Academy**
-- [Headmaster's List], [Worcester Academy], [Every Semester]
-- [Varsity Letters: 3 Baseball, 1 Cross Country, 1 Swimming], [Worcester Academy]
+- Headmaster's List, [Worcester Academy], [Every Semester]
+- Varsity Letters: 3 Baseball, 1 Cross Country, 1 Swimming, [Worcester Academy]
 
 **Baseball**
 - Babe Ruth State champion (2 times) 
