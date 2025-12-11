@@ -2,7 +2,6 @@
 layout: project
 title: Water Pump Fluid Mechanics Dissection
 description: Class project with Graphs
-technologies: [MATLAB, python]
 image: /assets/images/pump.png
 ---
 Class: Fluid Mechanics (MAE 3230)
