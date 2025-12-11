@@ -77,6 +77,7 @@ Mechanical and Aerospace Engineering student at Cornell University with hands-on
 - Babe Ruth State champion (2 times) 
 - Multiple tournament titles [Junior SwampBats and New England Ruffnecks]
 - Freshman of the week [Cornell]
+
 ---
 
 #### Extracurricular Activities
