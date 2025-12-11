@@ -6,7 +6,7 @@ technologies: [SolidWorks, Machining]
 image: /assets/images/b2drone.png
 assets: /assets/MAE 3260 Group 23 Final Report.pdf
 ---
-
+Class: System Dynamics (MAE 3260)
 
 <embed 
   src="{{ '/assets/MAE 3260 Group 23 Final Report.pdf' | relative_url }}" 
