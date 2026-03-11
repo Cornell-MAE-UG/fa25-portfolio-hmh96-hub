@@ -6,7 +6,7 @@ technologies: [Class Work]
 image: /assets/images/heattransfer.png
 pics: /assets/images/heattransfer.png
 ---
-Class: Mechanics of Materials (MAE 3270)
+Class: Heat Transfer (MAE 3240)
 
 One homework assignment that I found especially valuable was the problem about heat transfer through a photovoltaic panel. In this assignment I had to model the panel as a thermal resistance network and analyze how heat moved through the glass layer, the adhesive layer, and into the silicon. I calculated the thermal resistances for each layer and used them to find the temperatures of the glass surface and the silicon. Working through this problem helped me understand how conduction, convection, and radiation all interact in a real system. It also helped me see how thermal resistance networks can simplify a complex heat transfer problem and make it easier to solve step by step.
 
