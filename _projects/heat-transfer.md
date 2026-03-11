@@ -2,7 +2,6 @@
 layout: project
 title: Heat Transfer
 description: description
-technologies: [Class Work]
 image: /assets/images/heattransfer.png
 pics: /assets/images/heattransfer.png
 ---
